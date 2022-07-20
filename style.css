@@ -1,0 +1,43 @@
+.pagecontent {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h1 {
+  font-family: courier, monospace;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 2em;
+  color: purple;
+}
+h2 {
+  font-family: courier, monospace;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 2em;
+  color: pink;
+}
+
+p {
+  font-family: courier, monospace;
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 2em;
+  color: darkmagenta;
+}
+
+li {
+  font-family: courier, monospace;
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 2em;
+  color: darkmagenta;
+}
+
+ol {
+  font-family: courier, monospace;
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 2em;
+  color: darkmagenta;
+}
